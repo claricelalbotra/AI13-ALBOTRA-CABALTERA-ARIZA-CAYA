@@ -3,4 +3,3 @@
 LOST AND FOUND MANAGEMENT SYSTEM
 
 IDE/CODE EDITOR: VISUAL STUDIO CODE
-This project was developed using Visual Studio Code.
