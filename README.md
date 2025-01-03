@@ -40,7 +40,9 @@ DEPLOYMENT INSTRUCTIONS
 2.	Open a terminal in Visual Studio Code and navigate to the project directory.
 
 3.	Compile the application using the following command:
+
 Java. G2.java
+
 Java G2
 
 
