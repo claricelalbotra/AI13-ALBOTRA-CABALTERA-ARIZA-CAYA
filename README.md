@@ -3,7 +3,9 @@
 LOST AND FOUND MANAGEMENT SYSTEM
 
 SYSTEM SETUP
+
 We recommend using Visual Studio Code with Java Extensions installed.
+
 
 Operating System: Compatible with Windows, macOS, and Linux.
 
